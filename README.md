@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there, I'm Elmer Jaén 👋
 
-<!--
-**elmerjaen/elmerjaen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Engineering Student from Panama
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning everything as much as possible.
+- 👯 I’m looking to collaborate on opensource projects.
+- ⚡ Fun fact: I like to play football
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+
+[<img
+  aling="left"
+  src="https://img.icons8.com/color/96/000000/linkedin.png"
+  alt="LinkedIn"
+  width="22"
+/>](https://www.linkedin.com/in/elmerjaen/)
+
+---
+
+[![Elmer Jaen's Github Stats](https://github-readme-stats.vercel.app/api?username=elmerjaen&show_icons=true&theme=radical&count_private=true)](https://github.com/elmerjaen)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elmerjaen&layout=compact&theme=radical)](https://github.com/elmerjaen)
