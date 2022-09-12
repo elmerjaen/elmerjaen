@@ -4,7 +4,6 @@
 
 - 🌱 I'm currently learning everything as much as possible.
 - 👯 I’m looking to collaborate on opensource projects.
-- ⚡ Fun fact: I like to play football
 
 ## Connect with me:
 
