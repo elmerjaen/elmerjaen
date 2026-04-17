@@ -2,7 +2,6 @@
 
 ## I'm a Software Engineering Student from Panama
 
-- 🌱 I'm currently learning everything as much as possible.
 - 👯 I’m looking to collaborate on opensource projects.
 
 ## Connect with me:
